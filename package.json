@@ -1,0 +1,19 @@
+{
+  "name": "sportpro",
+  "version": "1.0.0",
+  "description": "My final Business Information Systems final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfiniteLoop75/SportPro.git"
+  },
+  "author": "Ibrokhimjon Saydakhmatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InfiniteLoop75/SportPro/issues"
+  },
+  "homepage": "https://github.com/InfiniteLoop75/SportPro#readme"
+}
