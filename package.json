@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/InfiniteLoop75/SportPro/issues"
   },
-  "homepage": "https://github.com/InfiniteLoop75/SportPro#readme"
+  "homepage": "https://github.com/InfiniteLoop75/SportPro#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
